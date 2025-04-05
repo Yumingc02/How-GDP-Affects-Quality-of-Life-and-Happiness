@@ -7,7 +7,13 @@ Yu Ming Chen
 
 Chunran Chen
 
-  
-<www.kaggle.com/datasets/darrylljk/better-life-index-2024-life-satisfaction \>
-<www.kaggle.com/datasets/ahmedmohamed2003/quality-of-life-for-each-country/data \>
-<www.kaggle.com/datasets/unsdsn/world-happiness \>
+
+
+#### Datasets
+www.kaggle.com/datasets/darrylljk/better-life-index-2024-life-satisfaction \
+www.kaggle.com/datasets/ahmedmohamed2003/quality-of-life-for-each-country/data \
+www.kaggle.com/datasets/unsdsn/world-happiness 
+
+
+#### Visualizations
+
